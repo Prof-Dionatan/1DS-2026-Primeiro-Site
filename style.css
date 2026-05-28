@@ -19,3 +19,21 @@ li{
 #js{
     color: yellow;
 }
+
+button{
+    background-color: pink;
+    padding: 10px 20px; /* ESPAÇO INTERNO */
+    margin: 10px; /* ESPAÇO EXTERNO */
+    border-radius: 10px; /* BORDA */
+    max-width: 100px;
+}
+
+span{
+    font-size: 20px;
+    color: rgb(119, 0, 255);
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+}
