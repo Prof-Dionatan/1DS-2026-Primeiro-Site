@@ -17,3 +17,7 @@ function aumentarFonte(){
     fonte++;
     document.body.style.fontSize = fonte + "px";
 }
+
+
+// BOTÃO DO CONTRASTE
+// FUNÇÃO DO CONTRASTE
