@@ -20,4 +20,9 @@ function aumentarFonte(){
 
 
 // BOTÃO DO CONTRASTE
+const botaoContraste = document.getElementById("contraste")
+botaoContraste.addEventListener("click", adicionarContraste)
 // FUNÇÃO DO CONTRASTE
+function adicionarContraste(){
+    document.body.style.color = "yellow"
+}
